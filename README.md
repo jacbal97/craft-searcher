@@ -1,2 +1,2 @@
 # craft-searcher
-program to find all ingridients needed to craft items
+program to find all ingredients needed to craft items
